@@ -1,2 +1,4 @@
 # awesome-llm-prep
-Curated resources, utilities, and example scripts for preparing datasets and training pipelines for large language models.
+This repository collects tools, sample configurations, and preprocessing workflows commonly used in building and refining large-scale language models. Includes links 
+to datasets, tokenizer scripts, alignment strategies, and prompt tuning examples.
+
